@@ -1,6 +1,7 @@
 <h1> Hi there. My name is Igor! 👋 </h1>
 
-- 🌱 I’m currently learning HTML/CSS and C++
+- Graduating in Computer Science at Federal University of Minas Gerais UFMG
+- 🌱 I’m currently learning Javascript, HTML/CSS and C/C++
 - 😄 Pronouns: He/his
 
 <div align="center">
