@@ -2,7 +2,6 @@
 
 - Graduating in Computer Science at Federal University of Minas Gerais UFMG
 - 🌱 I’m currently learning Javascript, HTML/CSS and C/C++
-- 😄 Pronouns: He/his
 
 <div align="center">
   <a href="https://github.com/Igoreduardobraga">
