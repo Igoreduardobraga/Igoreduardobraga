@@ -1,7 +1,12 @@
 <h1> Hi there. My name is Igor! 👋 </h1>
 
 - Graduating in Computer Science at Federal University of Minas Gerais UFMG
-- 🌱 I’m currently learning Javascript, HTML/CSS and C/C++
+- 🌱 I’m currently learning:
+    - Javascript
+    - HTML/CSS
+    - C/C++
+    - Typescript
+    - React.js
 
 <div align="center">
   <a href="https://github.com/Igoreduardobraga">
