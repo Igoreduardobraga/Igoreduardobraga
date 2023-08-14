@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/Igoreduardobraga/Igoreduardobraga/blob/main/1338370.jpg)
+![MasterHead](https://github.com/Igoreduardobraga/Igoreduardobraga/blob/main/BackgroundImage.jpg)
 
 <h1 align="center">Hi 👋, I'm Igor Braga</h1>
 <h3 align="center">Graduating in Computer Science at Federal University of Minas Gerais UFMG</h3>
