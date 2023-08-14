@@ -7,6 +7,7 @@
     - C/C++
     - Typescript
     - React.js
+    - Python
 
 <div align="center">
   <a href="https://github.com/Igoreduardobraga">
