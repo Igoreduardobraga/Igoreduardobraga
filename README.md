@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+![MasterHead](https://github.com/Igoreduardobraga/Igoreduardobraga/blob/main/1338370.jpg)
 
 <h1 align="center">Hi 👋, I'm Igor Braga</h1>
 <h3 align="center">Graduating in Computer Science at Federal University of Minas Gerais UFMG</h3>
