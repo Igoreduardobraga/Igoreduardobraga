@@ -29,6 +29,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=igoreduardobraga&show_icons=true&locale=en&layout=compact" alt="igoreduardobraga" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=igoreduardobraga&show_icons=true&locale=en" alt="igoreduardobraga" /></p>
+![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Igoreduardobraga&show_icons=true&theme=react)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=igoreduardobraga&" alt="igoreduardobraga" /></p>
