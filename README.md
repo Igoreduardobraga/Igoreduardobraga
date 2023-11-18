@@ -30,7 +30,7 @@
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igoreduardobraga&layout=compact" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Igoreduardobraga&show_icons=true&theme=react" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Igoreduardobraga&show_icons=true&theme=default" /></td>
   </tr>
   <tr>
     <td colspan="2"><img src="https://github-readme-streak-stats.herokuapp.com/?user=igoreduardobraga&" alt="igoreduardobraga" /></td>
