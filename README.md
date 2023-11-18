@@ -27,8 +27,12 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/igorbraga"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/igorbraga" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=igoreduardobraga&show_icons=true&locale=en&layout=compact" alt="igoreduardobraga" /></p>
-
-![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Igoreduardobraga&show_icons=true&theme=react)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=igoreduardobraga&" alt="igoreduardobraga" /></p>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igoreduardobraga&layout=compact" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Igoreduardobraga&show_icons=true&theme=react" /></td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://github-readme-streak-stats.herokuapp.com/?user=igoreduardobraga&" alt="igoreduardobraga" /></td>
+  </tr>
+</table>
