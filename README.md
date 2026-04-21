@@ -13,54 +13,56 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-braga-7468a4241/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/igor_emb)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0C386B?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-braga-7468a4241/)
+[![Instagram](https://img.shields.io/badge/Instagram-0C386B?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/igor_emb)
 
 <h3 align="left">Languages and Tools:</h3>
 
-<h3 align="left">💻 Languages</h3>
+<h3 align="left">Languages</h3>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0C386B?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-0C386B?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0C386B?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0C386B?style=for-the-badge&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-0C386B?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-0C386B?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-<h3 align="left">🌐 Frontend</h3>
+<h3 align="left">Frontend</h3>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-0C386B?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-0C386B?style=for-the-badge&logo=css3&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-0C386B?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-0C386B?style=for-the-badge&logo=react&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0C386B?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-<h3 align="left">⚙️ Backend & Frameworks</h3>
+<h3 align="left">Backend & Frameworks</h3>
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-0C386B?style=for-the-badge&logo=springboot&logoColor=white)
+![Django](https://img.shields.io/badge/Django-0C386B?style=for-the-badge&logo=django&logoColor=white)
 
-<h3 align="left">🤖 AI / Data Science</h3>
+<h3 align="left">AI / Data Science</h3>
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0C386B?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-0C386B?style=for-the-badge&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0C386B?style=for-the-badge&logo=huggingface&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-0C386B?style=for-the-badge&logo=jupyter&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-0C386B?style=for-the-badge&logo=apachespark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-0C386B?style=for-the-badge&logo=databricks&logoColor=white)
 
-<h3 align="left">🗄️ Databases</h3>
+<h3 align="left">Databases</h3>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0C386B?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-0C386B?style=for-the-badge&logo=mysql&logoColor=white)
 
-<h3 align="left">☁️ DevOps & Tools</h3>
+<h3 align="left">DevOps & Tools</h3>
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0C386B?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0C386B?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-0C386B?style=for-the-badge&logo=postman&logoColor=white)
 
-<h3 align="left">🌍 Others</h3>
+<h3 align="left">Others</h3>
 
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-0C386B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igoreduardobraga&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
